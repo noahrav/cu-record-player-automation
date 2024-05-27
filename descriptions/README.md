@@ -10,8 +10,8 @@ Python < 3, Pandas, Pillow
 
 ```
 git clone https://github.com/noahrav/cu-record-player-automation.git
-cd cu-record-player-automation/code
-python ./event_gen.py
+cd cu-record-player-automation/descriptions
+python ./build_assets.py
 ```
 
 The assets will be generated in the descfriptions/out/ folder.
