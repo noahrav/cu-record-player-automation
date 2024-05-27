@@ -1,0 +1,214 @@
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_description_000000</string>
+        <parameters>56 0 160 120 1 100 100 1 100 100 100 100 0 0 100 0 100 0 13489432 0 0 0 0 40969096 103972924 -2147483640 96 7 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_0</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_1</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_2</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_3</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_4</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_5</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_6</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_7</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_8</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_9</string>
+        <parameters>52 0 230 202 0 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_number_0</string>
+        <parameters>52 0 230 202 0 100 100 1 100 100 100 100 0 536870912 100 5830152 100 0 1 0 0 0 0 0 13369376 0 4364484 7 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 13 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 15 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>98 0 16</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99 0 160 120 0 100 100 0 100 100 100 100 0 0 5 1 100 0 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99 0 16</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1 1 1</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>

@@ -1,0 +1,6 @@
+       <EventCommand>
+        <code>11510</code>
+        <indent>0</indent>
+        <string>%s</string>
+        <parameters>0 0 100 50</parameters>
+       </EventCommand>

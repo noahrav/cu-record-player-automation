@@ -1,0 +1,6 @@
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_%s_%s</string>
+        <parameters>51 0 88 120 1 100 0 %s 100 100 100 100 0 0 0 100 0 0 6 0 0 0 0 0 1 6 18 1 0 113</parameters>
+       </EventCommand>

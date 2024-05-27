@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LMU>
+ <Map>
+  <chipset_id>2</chipset_id>
+  <width>20</width>
+  <height>15</height>
+  <scroll_type>0</scroll_type>
+  <parallax_flag>T</parallax_flag>
+  <parallax_name>black</parallax_name>
+  <parallax_loop_x>F</parallax_loop_x>
+  <parallax_loop_y>F</parallax_loop_y>
+  <parallax_auto_loop_x>F</parallax_auto_loop_x>
+  <parallax_sx>0</parallax_sx>
+  <parallax_auto_loop_y>F</parallax_auto_loop_y>
+  <parallax_sy>0</parallax_sy>
+  <generator_flag>F</generator_flag>
+  <generator_mode>0</generator_mode>
+  <top_level>F</top_level>
+  <generator_tiles>0</generator_tiles>
+  <generator_width>4</generator_width>
+  <generator_height>2</generator_height>
+  <generator_surround>T</generator_surround>
+  <generator_upper_wall>T</generator_upper_wall>
+  <generator_floor_b>T</generator_floor_b>
+  <generator_floor_c>T</generator_floor_c>
+  <generator_extra_b>T</generator_extra_b>
+  <generator_extra_c>T</generator_extra_c>
+  <generator_x>0 0 0 0 0 0 0 0 0</generator_x>
+  <generator_y>0 0 0 0 0 0 0 0 0</generator_y>
+  <generator_tile_ids>49 49 49 49 49 49 10000 10001 10006 10007 10000 10001 10006 10007 10000 10001 10006 10007</generator_tile_ids>
+  <lower_layer>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</lower_layer>
+  <upper_layer>10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000</upper_layer>
+  <events>
+   <Event id="0001">
+    <name>slot</name>
+    <x>12</x>
+    <y>2</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>2</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0002">
+    <name>cursor</name>
+    <x>2</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>charset_record_player</character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>2</trigger>
+      <layer>2</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0003">
+    <name>init</name>
+    <x>0</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>debug1</character_name>
+      <character_index>4</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>0</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>=== INFO ===</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 1 = ID of the slot pointed by the cursor when 'play' </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>                   is called</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 2 = variable used in the call of 'play' to calculate  </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>                   the ID</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 3 = stack for when multiple tracks occupy one slot</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 4 = currently playing ID</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variables 5 &amp; 6 = Slot coords (for picture update)</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 7 = Slot is locked (0), incomplete(1), fully_unlocked(2) or unavailable (10)</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variables 8, 9, 10 = used to calculate local variable 7</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 11 = directional key holding timer</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 12 = slot picture ids</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variables 13, 14 = slot picture coordinates</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 15 = used for vertical looping (Max ID rounded up to a multiple of 7)</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variables 16, 17 = tracks the 'is playing' cursor</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 18 = background ID</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 19 = used to calculate local variable 18</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local variable 20 = track number display</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local switch 1 = is loading</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Local switch 2 = is music currently playing</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Pictre IDs 1 to 49 = slots </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Picture ID 50 = text boxes</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Picture ID 51 = background image</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Picture IDs 52 to 55 = track number display</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Picture ID 56 = track description</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22410</code>
+        <indent>0</indent>
+        <string>Picture ID 99 = loading screen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>blackscreen</string>
+        <parameters>98 0 160 120 0 100 0 0 100 100 100 100 0 64782840 0 0 0 0 0 0 0 0 0 8716303 0 64454416 64749092 7 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10680</code>
+        <indent>0</indent>
+        <string>system2</string>
+        <parameters>0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1 20 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 4 4 0 0 -1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 144 144 0 0 %d 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>Max Offset = Max ID / Width</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 148 148 0 1 144 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 148 148 4 1 145 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 15 15 0 1 144 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 15 15 1 1 145 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 15 15 4 1 145 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 15 15 3 1 145 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 3 3 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11310</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>14 8 0 0 34 16 97 121 97 95 99 104 97 114 115 101 116 95 110 112 99 49 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>5 8 0 0 34 16 97 121 97 95 99 104 97 114 115 101 116 95 110 112 99 49 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10860</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2 1 141 142 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 10 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 25 25 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_layout</string>
+        <parameters>50 0 160 120 1 100 0 1 100 100 100 100 0 536870912 0 5830152 0 0 0 0 0 0 0 56 0 0 0 4 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_layout_arrows</string>
+        <parameters>60 0 248 13 0 100 100 0 100 100 100 100 0 536870912 100 5830152 100 0 0 0 0 0 1 2 0 1 4364484 7 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_layout_arrows</string>
+        <parameters>61 0 248 163 0 100 100 0 100 100 100 100 0 536870912 100 5830152 100 0 0 0 0 0 1 2 0 2 0 7 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>-1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 17 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12320</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0004">
+    <name>slot</name>
+    <x>18</x>
+    <y>8</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>2</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0005">
+    <name>is playing</name>
+    <x>1</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>charset_record_player</character_name>
+      <character_index>0</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>4</trigger>
+      <layer>2</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>1</animation_type>
+      <move_speed>1</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>

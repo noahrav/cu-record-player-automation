@@ -1,0 +1,24 @@
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>record_player_background_000000</string>
+        <parameters>51 0 88 120 1 100 100 0 100 100 100 100 0 0 100 100 100 0 6 0 0 0 0 0 1 6 18 1 0 113</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>---------------------------</string>
+        <parameters></parameters>
+       </EventCommand>
